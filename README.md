@@ -40,4 +40,5 @@
 # Quotes
 
 > The key to success is failure -  _Michael Jordan_
+
 >  Words are a lens to focus one's mind - _Ayn Rand_
