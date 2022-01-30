@@ -35,3 +35,9 @@
 |Badminton|PG Academy|$45 per month|
 |Cricket |Maryville Ground|$40 per month|
 
+---
+
+# Quotes
+
+> The key to success is failure -  _Michael Jordan_
+>  Words are a lens to focus one's mind - _Ayn Rand_
