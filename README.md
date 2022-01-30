@@ -25,6 +25,13 @@
    
 [Link to Aboutme](https://github.com/Samyu1999/assignment2-potla/blob/main/AboutMe.md)
 
+---
 
+# Tables
+# About Sports
 
+|Sports |Location  | Fee|
+--- | --- | ---|
+|Badminton|PG Academy|$45 per month|
+|Cricket |Maryville Ground|$40 per month|
 
