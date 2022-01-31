@@ -42,3 +42,27 @@
 > The key to success is failure -  _Michael Jordan_
 
 >  Words are a lens to focus one's mind - _Ayn Rand_
+
+--- 
+
+# Code Fencing 
+
+> The Fibonacci sequence is a series of numbers in which each number is the sum of the two that precede it. Starting at 0 and 1, the sequence looks like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on forever. The Fibonacci sequence can be described using a mathematical equation: Xn+2= Xn+1 + Xn
+
+[link to the source](https://www.livescience.com/37470-fibonacci-sequence.html)
+
+```
+pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}
+```
+[quick link to code source](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
